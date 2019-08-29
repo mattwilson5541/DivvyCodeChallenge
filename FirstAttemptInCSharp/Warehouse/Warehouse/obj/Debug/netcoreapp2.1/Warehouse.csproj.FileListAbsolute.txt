@@ -1,0 +1,11 @@
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\bin\Debug\netcoreapp2.1\Warehouse.deps.json
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\bin\Debug\netcoreapp2.1\Warehouse.runtimeconfig.json
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\bin\Debug\netcoreapp2.1\Warehouse.runtimeconfig.dev.json
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\bin\Debug\netcoreapp2.1\Warehouse.dll
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\bin\Debug\netcoreapp2.1\Warehouse.pdb
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.csprojAssemblyReference.cache
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.csproj.CoreCompileInputs.cache
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.AssemblyInfoInputs.cache
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.AssemblyInfo.cs
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.dll
+C:\Projects\DivvyCodeChallenge\FirstAttemptInCSharp\Warehouse\Warehouse\obj\Debug\netcoreapp2.1\Warehouse.pdb
